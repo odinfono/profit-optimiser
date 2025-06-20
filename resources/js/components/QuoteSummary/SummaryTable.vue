@@ -24,7 +24,7 @@
           </td>
         </tr>
         <tr v-if="result.exceedsLaborThreshold" class="odd:bg-white even:bg-gray-50">
-          <td colspan="2" class="font-semibold text-lg py-1 pr-2 whitespace-nowrap text-red-800">Labor hours has exceed a sustainable threshold</td>
+          <td colspan="2" class="font-semibold text-lg py-1 pr-2 whitespace-nowrap text-red-800">Labor hours has exceeded a sustainable threshold</td>
           
         </tr>
       </tbody>
