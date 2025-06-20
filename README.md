@@ -77,6 +77,9 @@ Your application should be running on http://127.0.0.1:8000/ depend on your port
    ```sh
    php artisan test
 ```
+#### OpenAI Key
+ Please provide your OpenAI key to use the AI suggestion service
+  
 
 ### Future Improvements
 - Implement Laravel Middleware Throttle for Rate Limiting.
