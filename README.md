@@ -1,4 +1,4 @@
-# Specifi Profit Optimiser
+# Profit Optimiser
 
 ## Project Description
 This is a simple profitability checker implemented using Laravel 12 and Vue 3. It allows users to select from list of products, input labor, costs, overheads, and a target profit margin to generate a profitability analysis. The system calculates gross profit and margin, flags low-margin items, and uses the OpenAI API to generate suggestions for improving profitability. It also includes a PDF export feature and displays a health indicator (`green`, `amber`, `red`) based on the quote’s overall profitability.
